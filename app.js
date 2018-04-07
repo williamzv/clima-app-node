@@ -1,3 +1,8 @@
+/**
+ * https://developers.google.com/maps/
+ * https: //home.openweathermap.org/
+ */
+
 const argv = require('./config/yargs').argv;
 const lugar = require('./lugar/lugar');
 const clima = require('./clima/clima');
